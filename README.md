@@ -1,4 +1,2 @@
 # hello-world
-First Try
-
-THIS IS MASTER FILE
+ MASTER FILE
